@@ -1,3 +1,3 @@
 #! /bin/bash
 
-source ./qcdsnake/scripts/dependencies.sh
+source scripts/dependencies.sh
