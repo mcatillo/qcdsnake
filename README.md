@@ -17,7 +17,8 @@ The program is meant to work on Linux Operative Systems, where python is install
 It schould already work in most of the Linux distros. You can install it with
 
         git clone https://github.com/mcatillo/qcdsnake
-        bash qcdsnake/scripts/install.sh
+        cd qcdsnake
+        bash scripts/install.sh
 
 
 ### Uninstalling
