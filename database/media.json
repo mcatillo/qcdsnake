@@ -1,0 +1,18 @@
+{"images":
+    {"pause":"play1.png",
+    "play": "play2.png",
+    "snake-example": "snakeimg.png",
+    "logo-png":"logo.png",
+    "img1":"history4-1.png",
+    "img-quarks":"bm2.png",
+    "img-baryons":"bm3.png",
+    "img-mesons":"bm4.png",
+    "logo":"logo.ico"
+    },
+    "sounds":
+    {"background-music":"melody.mp3",
+    "crash":"crash.mp3",
+    "ding":"ding.mp3",
+    "bubble":"bubble.wav"
+    }
+}

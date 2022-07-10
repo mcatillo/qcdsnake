@@ -1,0 +1,836 @@
+{"hadrons":
+    {"baryons":
+            {"1":
+                {"content": "uuu",
+                "masses": [1232],
+                "combination": [1,1,1],
+                "particle": [
+                        {
+                            "evidence" : 0,
+                            "name": ["Delta ++"],
+                            "latex": ["\u0394⁺⁺"]
+                        },
+                        {
+                            "evidence" : 0,
+                            "name": ["anti-Delta --"],
+                            "latex": ["anti-\u0394⁻⁻"]
+                        }
+                    ]
+                },
+            "2":
+                {"content": "uud",
+                "masses": [938],
+                "combination": [1,1,2],
+                "particle": [
+                        {
+                            "evidence" : 0,
+                            "name": ["Proton"],
+                            "latex": "p"
+                        },
+                        {
+                            "evidence" : 0,
+                            "name": ["anti-Proton"],
+                            "latex": ["anti-p"]
+                        }
+                    ]
+                },
+            "3":
+                {"content": "udd",
+                "masses": [939],
+                "combination": [1,2,2],
+                "particle": [
+                        {
+                            "evidence" : 0,
+                            "name": ["Neutron"],
+                            "latex": ["n"]
+                        },
+                        {
+                            "evidence" : 0,
+                            "name": ["anti-Neutron"],
+                            "latex": ["anti-n"]
+                        }
+                    ]
+                },
+            "4":
+                {"content": "ddd",
+                "masses": [1232],
+                "combination": [2,2,2],
+                "particle": [
+                        {
+                            "evidence" : 0,
+                            "name": ["Delta -"],
+                            "latex": ["\u0394⁻"]
+                        },
+                        {
+                            "evidence" : 0,
+                            "name": ["anti-Delta +"],
+                            "latex": ["anti-\u0394⁺"]
+                        }
+                    ]
+                },
+            "5":
+                {"content": "uus",
+                "masses": [1189],
+                "combination": [1,1,3],
+                "particle": [
+                        {
+                            "evidence" : 0,
+                            "name": ["Sigma +"],
+                            "latex": ["\u03A3⁺"]
+                        },
+                        {
+                            "evidence" : 0,
+                            "name": ["anti-Sigma -"],
+                            "latex": ["anti-\u03A3⁻"]
+                        }
+                    ]
+                },
+            "6":
+                {"content": "uss",
+                "masses": [1314],
+                "combination": [1,3,3],
+                "particle": [
+                        {
+                            "evidence" : 0,
+                            "name": ["Xi 0"],
+                            "latex": ["\u039E⁰"]
+                        },
+                        {
+                            "evidence" : 0,
+                            "name": ["anti-Xi 0"],
+                            "latex": ["anti-\u039E⁰"]
+                        }
+                    ]
+                },
+            "7":
+                {"content": "sss",
+                "masses": [1672],
+                "combination": [3,3,3],
+                "particle": [
+                        {
+                            "evidence" : 0,
+                            "name": ["Omega -"],
+                            "latex": ["\u03A9⁻"]
+                        },
+                        {
+                            "evidence" : 0,
+                            "name": ["anti-Omega +"],
+                            "latex": ["anti-\u03A9⁺"]
+                        }
+                    ]
+                },
+            "8":
+                {"content": "dds",
+                "masses": [1197],
+                "combination": [2,2,3],
+                "particle": [
+                        {
+                            "evidence" : 0,
+                            "name": ["Sigma -"],
+                            "latex": ["\u03A3⁻"]
+                        },
+                        {
+                            "evidence" : 0,
+                            "name": ["anti-Sigma +"],
+                            "latex": ["anti-\u03A3⁺"]
+                        }
+                    ]
+                },
+            "9":
+                {"content": "dss",
+                "masses": [1321],
+                "combination": [2,3,3],
+                "particle": [
+                        {
+                            "evidence" : 0,
+                            "name": ["Xi -"],
+                            "latex": ["\u039E⁻"]
+                        },
+                        {
+                            "evidence" : 0,
+                            "name": ["anti-Xi +"],
+                            "latex": ["anti-\u039E⁺"]
+                        }
+                    ]
+                },
+            "10":
+                {"content": "uds",
+                "masses": [1182],
+                "combination": [1,2,3],
+                "particle": [
+                        {
+                            "evidence" : 0,
+                            "name": ["Sigma 0"],
+                            "latex": ["\u03A3⁰"]
+                        },
+                        {
+                            "evidence" : 0,
+                            "name": ["anti-Sigma 0"],
+                            "latex": ["anti-\u03A3⁰"]
+                        }
+                    ]
+                },
+            "11":
+                {"content": "ccc",
+                "masses": ["Unknown"],
+                "combination": [4,4,4],
+                "particle": [
+                        {
+                            "evidence" : 2,
+                            "name": ["triple charmed Omega ++"],
+                            "latex": ["\u03a9⁺⁺ccc"]
+                        },
+                        {
+                            "evidence" : 2,
+                            "name": ["anti-triple charmed Omega --"],
+                            "latex": ["anti-\u03a9⁻⁻ccc"]
+                        }
+                    ]
+                },
+            "12":
+                {"content": "uuc",
+                "masses": [2455],
+                "combination": [1,1,4],
+                "particle": [
+                        {
+                            "evidence" : 0,
+                            "name": ["charmed Sigma ++"],
+                            "latex": ["\u03A3⁺⁺c"]
+                        },
+                        {
+                            "evidence" : 0,
+                            "name": ["anti-charmed Sigma --"],
+                            "latex": ["anti-\u03A3⁻⁻c"]
+                        }
+                    ]
+                },
+            "13":
+                {"content": "ucc",
+                "masses": [3621],
+                "combination": [1,4,4],
+                "particle": [
+                        {
+                            "evidence" : 0,
+                            "name": ["double charmed Xi ++"],
+                            "latex": ["\u039E⁺⁺cc"]
+                        },
+                        {
+                            "evidence" : 0,
+                            "name": ["anti-double charmed Xi --"],
+                            "latex": ["anti-\u039E⁻⁻cc"]
+                        }
+                    ]
+                },
+            "14":
+                {"content": "ddc",
+                "masses": [2454],
+                "combination": [2,2,4],
+                "particle": [
+                        {
+                            "evidence" : 0,
+                            "name": ["charmed Sigma 0"],
+                            "latex": ["\u03A3⁰c"]
+                        },
+                        {
+                            "evidence" : 0,
+                            "name": ["anti-charmed Sigma 0"],
+                            "latex": ["anti-\u03A3⁰c"]
+                        }
+                    ]
+                },
+            "15":
+                {"content": "dcc",
+                "masses": ["Unknown"],
+                "combination": [2,4,4],
+                "particle": [
+                        {
+                            "evidence" : 2,
+                            "name": ["double charmed Xi +"],
+                            "latex": ["\u039E⁺cc"]
+                        },
+                        {
+                            "evidence" : 2,
+                            "name": ["anti-double charmed Xi -"],
+                            "latex": ["anti-\u039E⁻cc"]
+                        }
+                    ]
+                },
+            "16":
+                {"content": "ssc",
+                "masses": [2695],
+                "combination": [3,3,4],
+                "particle": [
+                        {
+                            "evidence" : 0,
+                            "name": ["charmed Omega 0"],
+                            "latex": ["\u03a9⁰c"]
+                        },
+                        {
+                            "evidence" : 0,
+                            "name": ["anti-charmed Omega 0"],
+                            "latex": ["anti-\u03a9⁰c"]
+                        }
+                    ]
+                },
+            "17":
+                {"content": "scc",
+                "masses": ["Unknown"],
+                "combination": [3,4,4],
+                "particle": [
+                        {
+                            "evidence" : 2,
+                            "name": ["double charmed Omega +"],
+                            "latex": ["\u03a9⁺cc"]
+                        },
+                        {
+                            "evidence" : 2,
+                            "name": ["anti-double charmed Omega -"],
+                            "latex": ["anti-\u03a9⁻cc"]
+                        }
+                    ]
+                },
+            "18":
+                {"content": "udc",
+                "masses": [2453],
+                "combination": [1,2,4],
+                "particle": [
+                        {
+                            "evidence" : 0,
+                            "name": ["charmed Sigma +"],
+                            "latex": ["\u03A3⁺c"]
+                        },
+                        {
+                            "evidence" : 0,
+                            "name": ["anti-charmed Sigma -"],
+                            "latex": ["anti-\u03A3⁻c"]
+                        }
+                    ]
+                },
+            "19":
+                {"content": "sdc",
+                "masses": [2470],
+                "combination": [3,2,4],
+                "particle": [
+                        {
+                            "evidence" : 0,
+                            "name": ["charmed Xi 0"],
+                            "latex": ["\u039E⁰c"]
+                        },
+                        {
+                            "evidence" : 0,
+                            "name": ["anti-charmed Xi 0"],
+                            "latex": ["anti-\u039E⁰c"]
+                        }
+                    ]
+                },
+            "20":
+                {"content": "suc",
+                "masses": [2467],
+                "combination": [3,1,4],
+                "particle": [
+                        {
+                            "evidence" : 0,
+                            "name": ["charmed Xi +"],
+                            "latex": ["\u039E⁺c"]
+                        },
+                        {
+                            "evidence" : 0,
+                            "name": ["anti-charmed Xi -"],
+                            "latex": ["anti-\u039E⁻c"]
+                        }
+                    ]
+                },
+            "21":
+                {"content": "uub",
+                "masses": [5810],
+                "combination": [1,1,5],
+                "particle": [
+                        {
+                            "evidence" : 0,
+                            "name": ["bottom Sigma +"],
+                            "latex": ["\u03A3⁺b"]
+                        },
+                        {
+                            "evidence" : 0,
+                            "name": ["anti-bottom Sigma -"],
+                            "latex": ["anti-\u03A3⁻b"]
+                        }
+                    ]
+                },
+            "22":
+                {"content": "udb",
+                "masses": ["Unknown"],
+                "combination": [1,2,5],
+                "particle": [
+                        {
+                            "evidence" : 2,
+                            "name": ["bottom Sigma 0"],
+                            "latex": ["\u03A3⁰b"]
+                        },
+                        {
+                            "evidence" : 2,
+                            "name": ["anti-bottom Sigma 0"],
+                            "latex": ["anti-\u03A3⁰b"]
+                        }
+                    ]
+                },
+            "23":
+                {"content": "usb",
+                "masses": [5791],
+                "combination": [1,3,5],
+                "particle": [
+                        {
+                            "evidence" : 0,
+                            "name": ["bottom Xi 0"],
+                            "latex": ["\u039E⁰b"]
+                        },
+                        {
+                            "evidence" : 0,
+                            "name": ["anti-bottom Xi 0"],
+                            "latex": ["anti-\u039E⁰b"]
+                        }
+                    ]
+                },
+            "24":
+                {"content": "ucb",
+                "masses": ["Unknown"],
+                "combination": [1,4,5],
+                "particle": [
+                        {
+                            "evidence" : 2,
+                            "name": ["charmed bottom Xi +"],
+                            "latex": ["\u039E⁺cb"]
+                        },
+                        {
+                            "evidence" : 2,
+                            "name": ["anti-charmed bottom Xi -"],
+                            "latex": ["anti-\u039E⁻cb"]
+                        }
+                    ]
+                },
+            "25":
+                {"content": "ddb",
+                "masses": [5815],
+                "combination": [2,2,5],
+                "particle": [
+                        {
+                            "evidence" : 0,
+                            "name": ["bottom Sigma -"],
+                            "latex": ["\u03A3⁻b"]
+                        },
+                        {
+                            "evidence" : 0,
+                            "name": ["anti-bottom Sigma +"],
+                            "latex": ["anti-\u03A3⁺b"]
+                        }
+                    ]
+                },
+            "26":
+                {"content": "dsb",
+                "masses": [5797],
+                "combination": [2,3,5],
+                "particle": [
+                        {
+                            "evidence" : 0,
+                            "name": ["bottom Xi -"],
+                            "latex": ["\u039E⁻b"]
+                        },
+                        {
+                            "evidence" : 0,
+                            "name": ["anti-bottom Xi +"],
+                            "latex": ["anti-\u039E⁺b"]
+                        }
+                    ]
+                },
+            "27":
+                {"content": "dcb",
+                "masses": ["Unknown"],
+                "combination": [2,4,5],
+                "particle": [
+                        {
+                            "evidence" : 2,
+                            "name": ["charmed bottom Xi 0"],
+                            "latex": ["\u039E⁰cb"]
+                        },
+                        {
+                            "evidence" : 2,
+                            "name": ["anti-charmed bottom Xi 0"],
+                            "latex": ["anti-\u039E⁰cb"]
+                        }
+                    ]
+                },
+            "28":
+                {"content": "ssb",
+                "masses": [6046],
+                "combination": [3,3,5],
+                "particle": [
+                        {
+                            "evidence" : 0,
+                            "name": ["bottom Omega -"],
+                            "latex": ["\u03A9⁻b"]
+                        },
+                        {
+                            "evidence" : 0,
+                            "name": ["anti-bottom Omega +"],
+                            "latex": ["anti-\u03A9⁺b"]
+                        }
+                    ]
+                },
+            "29":
+                {"content": "scb",
+                "masses": ["Unknown"],
+                "combination": [3,4,5],
+                "particle": [
+                        {
+                            "evidence" : 2,
+                            "name": ["charmed bottom Omega 0"],
+                            "latex": ["\u03A9⁰cb"]
+                        },
+                        {
+                            "evidence" : 2,
+                            "name": ["anti-charmed bottom Omega 0"],
+                            "latex": ["anti-\u03A9⁰cb"]
+                        }
+                    ]
+                },
+            "30":
+                {"content": "ccb",
+                "masses": ["Unknown"],
+                "combination": [4,4,5],
+                "particle": [
+                        {
+                            "evidence" : 2,
+                            "name": ["double charmed bottom Omega +"],
+                            "latex": ["\u03A9⁺ccb"]
+                        },
+                        {
+                            "evidence" : 2,
+                            "name": ["anti-double charmed bottom Omega -"],
+                            "latex": ["anti-\u03A9⁻ccb"]
+                        }
+                    ]
+                },
+            "31":
+                {"content": "cbb",
+                "masses": ["Unknown"],
+                "combination": [4,5,5],
+                "particle": [
+                        {
+                            "evidence" : 2,
+                            "name": ["charmed double bottom Omega 0"],
+                            "latex": ["\u03A9⁰cbb"]
+                        },
+                        {
+                            "evidence" : 2,
+                            "name": ["anti-charmed double bottom Omega 0"],
+                            "latex": ["anti-\u03A9⁰cbb"]
+                        }
+                    ]
+                },
+           "32":
+                {"content": "bbb",
+                "masses": ["Unknown"],
+                "combination": [5,5,5],
+                "particle": [
+                        {
+                            "evidence" : 2,
+                            "name": ["triple bottom Omega -"],
+                            "latex": ["\u03A9⁻bbb"]
+                        },
+                        {
+                            "evidence" : 2,
+                            "name": ["anti-triple bottom Omega +"],
+                            "latex": ["anti-\u03A9⁺bbb"]
+                        }
+                    ]
+                }
+            },
+    "mesons":
+            {"1":
+                {"content": "uu",
+                "masses": [139,547,957],
+                "combination": [1,1],
+                "particle": [
+                        {
+                            "evidence" : 0,
+                            "name": ["Pion 0","Eta 0", "Eta prime"],
+                            "latex":["\u03C0⁰","\u03B7⁰","\u03B7"]
+                        },
+                        {
+                            "evidence" : 0,
+                            "name": ["Pion 0","Eta 0", "Eta prime"],
+                            "latex":["\u03C0⁰","\u03B7⁰","\u03B7"]
+                        }
+                    ]
+                },
+            "2":
+                {"content": "dd",
+                "masses": [139,547,957],
+                "combination": [2,2],
+                "particle": [
+                        {
+                            "evidence" : 0,
+                            "name": ["Pion 0","Eta 0", "Eta prime"],
+                            "latex":["\u03C0⁰","\u03B7⁰","\u03B7"]
+                        },
+                        {
+                            "evidence" : 0,
+                            "name": ["Pion 0","Eta 0", "Eta prime"],
+                            "latex":["\u03C0⁰","\u03B7⁰","\u03B7"]
+                        }
+                    ]
+                },
+            "3":
+                {"content": "ss",
+                "masses": [547,957],
+                "combination": [3,3],
+                "particle": [
+                        {
+                            "evidence" : 0,
+                            "name": ["Eta 0","Eta prime"],
+                            "latex":["\u03B7⁰","\u03B7"]
+                        },
+                        {
+                            "evidence" : 0,
+                            "name": ["Eta 0","Eta prime"],
+                            "latex":["\u03B7⁰","\u03B7"]
+                        }
+                    ]
+                },
+            "4":
+                {"content": "ud",
+                "masses": [139],
+                "combination": [1,2],
+                "particle": [
+                        {
+                            "evidence" : 0,
+                            "name": ["Pion +"],
+                            "latex":["\u03C0⁺"]
+                        },
+                        {
+                            "evidence" : 0,
+                            "name": ["Pion -"],
+                            "latex":["\u03C0⁻"]
+                        }
+
+                    ]
+                },
+            "5":
+                {"content": "ds",
+                "masses": [497],
+                "combination": [2,3],
+                "particle": [
+                        {
+                            "evidence" : 0,
+                            "name": ["K-Short","K-Long"],
+                            "latex":["K⁰s","K⁰L"]
+                        },
+                        {
+                            "evidence" : 0,
+                            "name": ["K-Short","K-Long"],
+                            "latex":["K⁰s","K⁰L"]
+                        }
+
+                    ]
+                },
+            "6":
+                {"content": "us",
+                "masses": [493],
+                "combination": [1,3],
+                "particle": [
+                        {
+                            "evidence" : 0,
+                            "name": ["Kappa +"],
+                            "latex":["K⁺"]
+                        },
+                        {
+                            "evidence" : 0,
+                            "name": ["Kappa -"],
+                            "latex":["K⁻"]
+                        }
+
+                    ]
+                },
+            "7":
+                {"content": "uc",
+                "masses": [1864],
+                "combination": [1,4],
+                "particle": [
+                        {
+                            "evidence" : 0,
+                            "name": ["anti D 0"],
+                            "latex":["anti-D⁰"]
+                        },
+                        {
+                            "evidence" : 0,
+                            "name": ["D 0"],
+                            "latex":["D⁰"]
+                        }
+
+                    ]
+                },
+            "8":
+                {"content": "dc",
+                "masses": [1869],
+                "combination": [1,4],
+                "particle": [
+                        {
+                            "evidence" : 0,
+                            "name": ["D -"],
+                            "latex":["D⁻"]
+                        },
+                        {
+                            "evidence" : 0,
+                            "name": ["D +"],
+                            "latex":["D⁺"]
+                        }
+
+                    ]
+                },
+            "9":
+                {"content": "sc",
+                "masses": [1868],
+                "combination": [3,4],
+                "particle": [
+                        {
+                            "evidence" : 0,
+                            "name": ["strange D -"],
+                            "latex":["D⁻"]
+                        },
+                        {
+                            "evidence" : 0,
+                            "name": ["strange D +"],
+                            "latex":["D⁺"]
+                        }
+
+                    ]
+                },
+            "10":
+                {"content": "cc",
+                "masses": [3097],
+                "combination": [4,4],
+                "particle": [
+                        {
+                            "evidence" : 0,
+                            "name": ["J/Psi"],
+                            "latex":["J/\u03a8"]
+                        },
+                        {
+                            "evidence" : 0,
+                            "name": ["J/Psi"],
+                            "latex":["J/\u03a8"]
+                        }
+
+                    ]
+                },
+            "11":
+                {"content": "cb",
+                "masses": [6275],
+                "combination": [4,5],
+                "particle": [
+                        {
+                            "evidence" : 0,
+                            "name": ["charmed B + "],
+                            "latex":["B⁺c"]
+                        },
+                        {
+                            "evidence" : 0,
+                            "name": ["charmed B -"],
+                            "latex":["B⁻c"]
+                        }
+
+                    ]
+                },
+            "12":
+                {"content": "ub",
+                "masses": [5279],
+                "combination": [1,5],
+                "particle": [
+                        {
+                            "evidence" : 0,
+                            "name": ["B + "],
+                            "latex":["B⁺"]
+                        },
+                        {
+                            "evidence" : 0,
+                            "name": ["B -"],
+                            "latex":["B⁻"]
+                        }
+
+                    ]
+                },
+            "13":
+                {"content": "db",
+                "masses": [5279],
+                "combination": [2,5],
+                "particle": [
+                        {
+                            "evidence" : 0,
+                            "name": ["B 0 "],
+                            "latex":["B⁰"]
+                        },
+                        {
+                            "evidence" : 0,
+                            "name": ["anti-B 0"],
+                            "latex":["anti-B⁰"]
+                        }
+
+                    ]
+                },
+            "14":
+                {"content": "sb",
+                "masses": [5366],
+                "combination": [3,5],
+                "particle": [
+                        {
+                            "evidence" : 0,
+                            "name": ["strange B 0 "],
+                            "latex":["B⁰s"]
+                        },
+                        {
+                            "evidence" : 0,
+                            "name": ["anti- strange B 0"],
+                            "latex":["anti-B⁰s"]
+                        }
+
+                    ]
+                },
+            "14":
+                {"content": "cb",
+                "masses": [5275],
+                "combination": [4,5],
+                "particle": [
+                        {
+                            "evidence" : 0,
+                            "name": ["strange B + "],
+                            "latex":["B⁺c"]
+                        },
+                        {
+                            "evidence" : 0,
+                            "name": ["anti- strange B -"],
+                            "latex":["anti-B⁻c"]
+                        }
+
+                    ]
+                },
+            "15":
+                {"content": "bb",
+                "masses": [9460],
+                "combination": [5,5],
+                "particle": [
+                        {
+                            "evidence" : 0,
+                            "name": ["Upsilon"],
+                            "latex":["Y"]
+                        },
+                        {
+                            "evidence" : 0,
+                            "name": ["Upsilon"],
+                            "latex":["Y"]
+                        }
+
+                    ]
+                }
+            }
+        }
+}

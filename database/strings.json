@@ -1,0 +1,326 @@
+{"Page-1":
+    {"Description-1":
+        {"en":"At the beginning of the Universe, right after the Big Bang, all matter was extremely dense and hot. Some of the most elementary particles, namely the Quarks, were weakly interacting (Quark Gluon Plasma phase) and hadron matter that we know today (as protons, neutrons, pions,...) still did not exist.",
+        "it":"All'inizio dell'Universo, appena dopo il Big Bang, la materia era estremamente densa e calda. Alcune delle particle elementari, i Quark, erano debolmente interagenti (fase di Quark Gluon Plasma) e la materia adronica che oggi conosciamo (come i protoni, neutroni, pioni, ...) ancora non esisteva.",
+        "de":""
+        },
+    "Description-2":
+        {"en":"However 10\u207b\u2075 seconds after the Big Bang, temperature decreased and Quarks started to put together thanks to Gluons to form hadrons (Hadron phase), like baryons (protons, neutrons, ...) and mesons (pions, kaons, ...).",
+        "it":"Tuttvia 10\u207b\u2075 secondi dopo il Big Bang, la temperatura iniziò a decrescere e i Quark iniziarono a mettersi insieme grazie all'aiuto dei Gluoni (le particelle dell'interazioni nucleari forti) per formare gli adroni (fase adronica), come i barioni (protoni, neutroni, ...) e i mesoni (pioni, kaoni, ...).",
+        "de":""
+        },
+    "Description-3":
+        {"en":"Physicists still do not understand how this was possible. What they do not know is that a little galactic Snake, called QCD-Snake, was eating all the Quarks of the Universe and from its tail was producing the hadrons of the today's world.  \n However the amount of Quarks is too much in the Universe, so please, help to guide the QCD-Snake to eat all Quarks and produce as much hadrons as possible!",
+        "it":"I Fisici ancora non capiscono come questo sia accaduto. La cosa che non sanno è che in realtà un Serpente Galattico, chiamato QCD-Snake, stava mangiando tutti i Quark dell'Universo e producendo all'interno del suo stomaco gli adroni che conosciamo oggigiorno. Tuttavia la quantità di Quark è moltissima nell'Universo, quindi per favore, aiuta il QCD-Snake a mangiare tutti i Quark e produrre il maggior numero di adroni possibili!",
+        "de":""
+        },
+    "Description-footnote":
+        {"en":"Press Space bar to set parameters and start the game. Or Press Esc to exit.",
+        "it":"Premi Space bar per settare i parametri e iniziare il gioco. Oppure premi Esc per uscire.",
+        "de":""
+        },
+    "Description-title":
+        {"en":"The Quark Snake Game!",
+        "it":"QCD-Snake!",
+        "de":""
+        },
+    "Description-section":
+        {"en":"Description:",
+        "it":"Descrizione:",
+        "de":""
+        }
+    },
+"Page-2":
+    {"Setup-footnote":
+        {"en": "Move arrows \u2193 \u2191 and click Enter to select/deselect the parameters. Then select \"Start the Game\" or press Space bar to play the game.",
+        "it":"Muovi le frecce \u2193 \u2191 e clicca Invio per selezionare/deselezionare i parametri. Poi seleziona \"Inizia il Gioco\" o premi la Space bar per iniziare a giocare.",
+        "de":""
+        },
+    "Setup-description":
+        {"en": "The QCD-Snake lives in the Quark-Gluon plasma phase of the Universe and it eats Quarks and anti-Quarks to produce inside its stomach baryons and mesons through the use of Gluon particles, according to the theory of QCD (the notorius Quantum Chromo-Dynamics).",
+        "it":"Il QCD-Snake vive nella fase di Quark-Gluon plasma dell'Universo e mangia Quark e anti-Quark per produrre dentro il suo stomaco i barioni e mesoni attraverso l'uso delle particelle di Gluoni, secondo la teoria della QCD (ovvero la Cromodinamica Quantistica),",
+        "de":""
+        },
+    "Setup-title":
+        {"en": "How to Play with the QCD-Snake",
+        "it":"Come giocare con il QCD-Snake",
+        "de":""
+        },
+    "Setup-howto":
+        {"en": "How to play:",
+        "it":"Come giocare:",
+        "de":""
+        },
+    "Setup-baryons":
+        {"en": "How to play:",
+        "it":"Come giocare:",
+        "de":""
+        },
+    "Setup-1":
+        {"en": "Type of Quarks:",
+        "it":"Tipologia di Quark",
+        "de":""
+        },
+    "Setup-2":
+        {"en": "Baryons are made by three Quarks with three different colors.",
+        "it":"I barioni sono fatti da tre Quark di diverso colore.",
+        "de":""
+        },
+    "Setup-3":
+        {"en": "\n \n The Snake eat such Quarks and automatically apply the Levi-Civita tensor to antisymmetrize the color wave function to create the baryon.",
+        "it":"\n \n Il serpente mangia i Quark e automaticamente applica il tensore di LEvi-Civita per antisimmetrizzare la funzione d'onda di colore per create il barione.",
+        "de":""
+        },
+    "Setup-4":
+        {"en": "Mesons are made by quark and anti-quark pair of all three different colors.",
+        "it":"I mesoni sono fatti da una coppia di Quark e anti-Quark di tutti e tre i diversi colori.",
+        "de":""
+        },
+    "Setup-5":
+        {"en": "Constructing Hadrons:",
+        "it":"Costruendo gli Adroni:",
+        "de":""
+        },
+    "Setup-6":
+        {"en": "Snake in the Quark Gluon Plasma (game example)",
+        "it":"Serpente nel Quark Gluon Plasma (esempio di gioco)",
+        "de":""
+        }
+    },
+"Buttons":
+    {"Buttons-game":
+        {"en": "Setup the Game",
+        "it":"Setta il Gioco",
+        "de":""
+        },
+    "Buttons-flavors":
+        {"en": "Choose Flavors to eat",
+        "it":"Scegli il Sapore da mangiare",
+        "de":""
+        },
+    "Buttons-apple":
+        {"en": "Quarks on the screen",
+        "it":"Quark su schermo",
+        "de":""
+        },
+    "Buttons-particle":
+        {"en": "Type particles",
+        "it":"Tipi di particelle",
+        "de":""
+        },
+    "Buttons-slow":
+        {"en": "Slowness",
+        "it":"Livello",
+        "de":""
+        },
+    "Buttons-p":
+        {"en": "only particles",
+        "it":"solo particelle",
+        "de":""
+        },
+    "Buttons-a":
+        {"en": "only antiparticles",
+        "it":"solo antiparticelle",
+        "de":""
+        },
+    "Buttons-pa":
+        {"en": "particles & antiparticles",
+        "it":"particelle & antiparticelle",
+        "de":""
+        },
+    "Buttons-start":
+        {"en": "Start the Game!",
+        "it":"Inzia il Gioco!",
+        "de":""
+        },
+    "Buttons-esc":
+        {"en": "Exit",
+        "it":"Esci dal Gioco",
+        "de":""
+        }
+    },
+"Page-3":
+    {"Evidence-3":
+        {"en": "mass",
+        "it":"massa",
+        "de":""
+        },
+    "Evidence-4":
+        {"en": "Not discovered yet",
+        "it":"Ancora non scoperta",
+        "de":""
+        },
+    "Evidence-5":
+        {"en": "and more",
+        "it":"e ancora",
+        "de":""
+        },
+    "Evidence-footnote":
+        {"en": "Move arrows \u2193 \u2191  and click Enter to select/deselect the parameters. Then select \"Start the Game\" or press Space bar to play the game. Press Esc to Exit.",
+        "it":"Muovi le frecce \u2193 \u2191 e clicca Invio per selezionare/deselezionare i parametri. Poi seleziona \"Inizia il Gioco\" o premi la Space bar per iniziare a giocare.",
+        "de":""
+        },
+    "Evidence-fine":
+        {"en": "Game ended!",
+        "it":"Fine del Gioco!",
+        "de":""
+        },
+    "Evidence-res":
+        {"en": "Result",
+        "it":"Risultato",
+        "de":""
+        },
+    "Evidence-q":
+        {"en": "each quark is",
+        "it":"ogni quark vale",
+        "de":""
+        },
+    "Evidence-b":
+        {"en": "each baryon is",
+        "it":"ogni barione vale",
+        "de":""
+        },
+    "Evidence-m":
+        {"en": "each meson is",
+        "it":"ogni mesone vale",
+        "de":""
+        },
+    "Evidence-p":
+        {"en": " points",
+        "it":"",
+        "de":""
+        },
+    "Evidence-B":
+        {"en": "Baryons",
+        "it":"Barioni",
+        "de":""
+        },
+    "Evidence-M":
+        {"en": "Mesons",
+        "it":"Mesoni",
+        "de":""
+        },
+    "Evidence-Q":
+        {"en": "Quarks on screen",
+        "it":"Quark su schermo",
+        "de":""
+        },
+    "Evidence-PA":
+        {"en": "Particle/antiparticle",
+        "it":"Particelle/antiparticelle",
+        "de":""
+        },
+    "Evidence-QC":
+        {"en": "Quark content: ",
+        "it":"Quark coinvolti: ",
+        "de":""
+        },
+    "Evidence-6":
+        {"en": "Note: color singlet object not theoretical expected, but observed!",
+        "it":"Singoletto di colore non teoreticamente aspettato, ma osservato!",
+        "de":""
+        },
+    "Evidence-7":
+        {"en": "Note: color singlet object theoretical expected, but not observed!",
+        "it":"Singoletto di colore teoreticamente aspettato, ma non ancora osservato!",
+        "de":""
+        },
+    "Evidence-8":
+        {"en": "Note: color singlet object not theoretical expected and not observed!",
+        "it":"Singoletto di colore non teoreticamente aspettato, e non osservato!",
+        "de":""
+        },
+    "Evidence-9":
+        {"en": "You produced a ",
+        "it":"Hai prodotto un ",
+        "de":""
+        },
+    "Evidence-10":
+        {"en": "linear combination of",
+        "it":"combinazione lineare di",
+        "de":""
+        },
+    "Evidence-11":
+        {"en": "mesons",
+        "it":"mesoni",
+        "de":""
+        },
+    "Evidence-12":
+        {"en": "meson",
+        "it":"mesone",
+        "de":""
+        },
+    "Evidence-13":
+        {"en": "Quarks",
+        "it":"Quark",
+        "de":""
+        },
+    "Evidence-14":
+        {"en": "The ",
+        "it":"La particella ",
+        "de":""
+        },
+    "Evidence-15":
+        {"en": "Name",
+        "it":"Nome",
+        "de":""
+        },
+    "Evidence-16":
+        {"en": "Mass",
+        "it":"Massa",
+        "de":""
+        },
+    "Evidence-footnote2":
+        {"en": "Press Enter to restart over. Press Space bar to reset parameters. Or Press Esc to exit.",
+        "it":"Premi Invio per rigiocare. Premi la Space bar per risettare i parametri. Oppure premi Esc per uscire.",
+        "de":""
+        },
+    "Evidence-title":
+        {"en": "The Quark Snake Game!",
+        "it":"QCD-Snake!",
+        "de":""
+        },
+    "Evidence-qeaten":
+        {"en": "Eaten Quarks",
+        "it":"Quark mangiati",
+        "de":""
+        },
+    "Evidence-points":
+        {"en": "Points",
+        "it":"Punti",
+        "de":""
+        },
+    "Evidence-aeaten":
+        {"en": "Created Hadrons",
+        "it":"Adroni creati",
+        "de":""
+        },
+    "Evidence-beaten":
+        {"en": "Created Baryons",
+        "it":"Barioni creati",
+        "de":""
+        },
+    "Evidence-meaten":
+        {"en": "Created Mesons",
+        "it":"Mesoni creati",
+        "de":""
+        },
+    "Evidence-produce":
+        {"en": "particle has been produced",
+        "it":"è stata prodotta",
+        "de":""
+        }
+    },
+"Pause":
+    {"on":
+        {"en": "         Game paused (Press key P to continue)",
+        "it":"         Gioco in pausa (Premi P per continuare)",
+        "de":""
+        },
+    "off":
+        {"en": "         Game running (Press key P to pause)",
+        "it":"         Gioco in corso (Premi P per mettere in pausa)",
+        "de":""
+        }
+    }
+}
