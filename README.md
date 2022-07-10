@@ -14,19 +14,10 @@ This is a revised version of the famous snake game, but with the pedagogical pur
 ### Installation
 
 The program is meant to work on Linux Operative Systems, where python is installed from version 3.10.4 or later.
-It schould already work in most of the Linux distros. This can be checked downloading the whole folder *qcdsnake/* and double-clicking on
-
-        QCD-Snake
-
-Or for the Desktop verion type on terminal:
+It schould already work in most of the Linux distros. You can install it with
 
         git clone https://github.com/mcatillo/qcdsnake
-        bash qcdsnake/scripts/method1.sh
-
-Otherwise if some dependences are missing you can do on terminal:
-
-        git clone https://github.com/mcatillo/qcdsnake
-        bash qcdsnake/scripts/method2.sh
+        bash qcdsnake/scripts/install.sh
 
 
 ### Uninstalling
