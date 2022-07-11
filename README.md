@@ -14,7 +14,7 @@ This is a revised version of the famous snake game, but with the pedagogical pur
 ### Installation
 
 The program is meant to work on Linux Operative Systems, where python is installed from version 3.10.4 or later.
-It schould already work in most of the Linux distros. You can install it with
+It schould already work in most of the Linux distros. You can install it opening your terminal and paste the following commands:
 
         git clone https://github.com/mcatillo/qcdsnake
         cd qcdsnake
