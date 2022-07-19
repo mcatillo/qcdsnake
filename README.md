@@ -2,7 +2,7 @@
 QCD-Snake Game
 ==============
 
-This is a revised version of the famous snake game, but with the pedagogical puropose on learning something about hadron particles and High Energy Physics in the early stage of the Universe. It has been developed by Marco Catillo (myself) <mdotcat@gmail.com> specifically for the "Night of Physics" of June 17th 2022, at ETH University of Zurich, in Switzerland, in the attempt to explain quarks, gluons and hadrons to kids and families. This game is written in python with pygame.
+This is a revised version of the famous snake game, but with the pedagogical puropose on learning something about hadron particles and High Energy Physics in the early stage of the Universe. It has been developed by Marco Catillo (myself) <mdotcat@gmail.com> specifically for the *Night of Physics* of June 17th 2022, at ETH University of Zurich, in Switzerland, in the attempt to explain quarks, gluons and hadrons to kids and families. This game is written in python with pygame <https://www.pygame.org/>.
 
 
 ![Game Example](resources/game.gif)
@@ -27,7 +27,7 @@ For uninstalling this game conserve your folder *qcdsnake/*, and inside that fol
 
         clean.desktop
 
-Or open the terminal in folder *qcdsnake/* and type:
+Otherwise open the terminal in folder *qcdsnake/* and type:
 
         bash scripts/clean.sh
 
@@ -37,7 +37,7 @@ Or open the terminal in folder *qcdsnake/* and type:
 
         Enter key     ->  Select game parameters or restart the game
         Space bar key ->  Go to play the game
-        Arrows key    ->  Move the snake
+        Arrow keys    ->  Move the snake
         D key         ->  Go to game description
         P key         ->  Pause the game
         L key         ->  Change language: (EN/IT)
@@ -48,30 +48,30 @@ Or open the terminal in folder *qcdsnake/* and type:
 
 ### Physics part
 
-Let us start with a few important facts in order to understand the game.
-Quantum Chromodynamics is the theory of strong interaction. This interaction is the one which is responsible to keep the nucleai of our atoms together. It involves some of the smallest particles that we know to exist in Nature, the quarks and the gluons. Quarks are matter particles (like electrons, neutrinos  and so on), while gluons are the bosons which carry such strong interaction among quarks (like photons in electrodynamics). As far as we know we can't observe single quarks or gluons, but only their agglomerates, which are called hadrons. There two type of hadrons. Baryons, made by three quarks. These are for example the protons, neutrons and so on. Then we have the mesons, made by a couple of quark and anti-quark (which is simply the anti-particle of a quark), like pions, kaons and so on.
+Let us start with a few important Physics facts.
+Quantum Chromodynamics is the theory of strong interaction. This interaction is the one which is responsible to keep the nuclei of our atoms stable. It involves some of the smallest particles that we know to exist in Nature, the quarks and the gluons. Quarks are matter particles (similar to electrons, neutrinos  and so on), while gluons are the bosons which carry the strong interaction among quarks (as photons in electrodynamics). As far as we know, we can not observe single quarks or gluons, but only their agglomerates, which are called hadrons. There two type of hadrons. Baryons, made by three quarks. These are for example the protons, neutrons and so on. Then we have the mesons, made by a couple of quark and anti-quark (this last is simply the anti-particle of a quark), like pions, kaons and so on.
 
-The aim of the game is to understand which quark content has each hadron and how they are combined together.
+The aim of the game is to learn which quark content has each hadron and how they are combined together.
 The important point is that all hadrons are said to be color singlet, where color is how we name the *charge* associated with the strong interaction, like the electric charge is associated with the electric interaction.
-Nevertheless, while we can observe particles with a given electric charge, for example the electron is negative, the proton is positive and so on; hadrons have always zero color charge. In this sense they are called color singlets.
-Apperently in the today Universe we don't have object which have non-zero color charge, and this is why we do not observe free quarks or free gluons. Because they have their own color charge.
+Nevertheless, while we can observe particles with a given electric charge (electrons are negative, protons are positive and so on), hadrons have always zero color charge. In this sense they are called color singlets.
+Apperently in the today Universe we do not have object which have non-zero color charge, and this is why we do not observe free quarks or free gluons,  because they have their own color charge and consequently are not color singlets.
 
-However a few instants after the big bang the temperature of the Universe was so high that quarks and gluons used to stay together in a plasma (Quark-Gluon plasma). In this plasma you don't have only color singlet objects, but maybe something else. We still don't know exactly what really was the matter at that period and this is still under investigation by many particle physicists. It is possible that quarks and gluons behave like nearly free particles.
+However a few instants after the big bang the temperature of the Universe was so high that quarks and gluons used to stay together in a plasma (Quark-Gluon plasma). In this plasma you do not have only color singlet objects, but maybe something else. We still don't know exactly what really was the matter at that period and this is still under investigation by many particle physicists. It is possible that quarks and gluons behave like nearly free particles.
 
 ### The invented storytelling
 
 The storytelling which I want to give in this game is that a snake living a few instants after the Big Bang was eating such quarks and creating hadrons starting from single quarks.
 In order to have the so called color singlets, the snake has to eat consecutively three quarks with three different colors, in order to have baryons. Moreover, it has to eat a pair of quark and anti-quark of all three different colors for having a meson.
-In this way you can increase your point through the game.
+In this way you can increase your points through the game.
 
-**The story of the snake is of course not true in reality and just invented for the game purpose**. However one can understand which quarks are needed for forming a given hadron, i.e. baryon or meson.
-Because typically what you learn in school is that there are just protons and neutrons in the Universe. In reality there is a real zoo of particles of many types, with different quark content.
+**The story of the snake is of course not true in reality and just invented for the game purpose**. However one can understand which quarks are needed for forming a given hadron.
+The reason is that typically what people learn in school is that there are just protons and neutrons in the Universe. In reality there is a real zoo of particles of many types, with different quark content.
 Playing this game can get a little used to such other particles which give a lot of interest to particle physicists.
 
 
 ## Acknowledgements
 
-For this project I want to thank ETH Zurich for giving me the possibility of presenting this game at the event *Nacht der Physik*. Prof. Marina Marinkovic for supporting me in this. The whole Computational Physics group for which we had a lot of fun playing this game during the event. For this reason, I am  thankful to Javad Komijani, Roman Gruber, Joao P. Barros, Paola Tavella, Anian Altherr, Mika Lauk, Gabriele Pierini, Matteo D’anna and Thea Budde.
+For this project I want to thank ETH Zurich for giving me the possibility of presenting this game at the event *Nacht der Physik* (or *Night of Physics* in English). Especially Prof. Marina Marinkovic for supporting me in this. The whole Computational Physics group for which we had a lot of fun playing this game during the event. For this reason, I am  thankful to Javad Komijani, Roman Gruber, Joao P. Barros, Paola Tavella, Anian Altherr, Mika Lauk, Gabriele Pierini, Matteo D’anna and Thea Budde.
 
 ## Further information
 ---------------------
